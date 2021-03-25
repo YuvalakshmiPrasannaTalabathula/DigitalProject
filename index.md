@@ -1,4 +1,4 @@
-YUvaLakshmiPrasanna Talabathula
+YuvaLakshmiPrasanna Talabathula
 ============
 
 -------------------     ----------------------------
@@ -29,15 +29,14 @@ Technical Skills
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
+Extra Section 
 ----------------------------------------
 
 * Human Languages:
 
      * Telugu (Native Speaker)
      * English
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+     
+* Hobbies:
+    * Watching T.V
+    * Playing Games.
